@@ -1,0 +1,15 @@
+.card-list-wrapper {
+  width: 100%;
+  overflow-y: hidden;
+  overflow-x: hidden;
+
+  .elements-wrapper {
+    gap: 10px;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    display: grid;
+    row-gap: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: 20px 0 20px;
+  }
+}

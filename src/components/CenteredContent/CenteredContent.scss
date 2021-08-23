@@ -1,0 +1,9 @@
+@import "./src/mixins";
+
+.centered-content {
+  @include horizontally-centered;
+
+  width: 100%;
+  font-size: 25px;
+  margin: 50px 0;
+}

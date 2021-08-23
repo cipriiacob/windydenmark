@@ -1,0 +1,21 @@
+@import "./src/mixins";
+
+.button-style {
+  height: $bars-height;
+  width: fit-content;
+  border-radius: 5px;
+  padding: 0px 15px;
+  cursor: pointer;
+  border: none;
+  color: $text-color;
+  font-weight: bold;
+  box-shadow: rgba(0, 0, 0, .15) 3px 3px 2px;
+
+  &.default {
+    background-color: $main-color-2;
+  }
+
+  &.destructive {
+    background-color: #E15554;
+  }
+}

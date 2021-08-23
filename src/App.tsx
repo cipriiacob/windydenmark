@@ -1,26 +1,41 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, {useEffect, useState} from 'react';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+import {City, fetchCitiesByCoord, fetchFavouriteCities} from './redux/weatherInCities';
+import MainPage from "./components/MainPage/MainPage";
+import {useDispatch, useSelector} from "react-redux";
+
+const App = () => {
+    const [refreshFavouritesInterval, setRefreshFavouritesInterval] = useState(undefined)
+    const [refreshAllCitiesInterval, setRefreshAllCitiesInterval] = useState(undefined)
+    const dispatch = useDispatch()
+
+    const coordinates = useSelector(((state: any) => state.weatherInCities.coordinates))
+    const favouriteCities = useSelector(((state: any) => state.weatherInCities.favouriteCities))
+
+    useEffect(() => {
+        dispatch(fetchCitiesByCoord({...coordinates}))
+    }, [])
+
+    useEffect(() => {
+        setRefreshFavouritesInterval(setInterval(() => {
+
+            const favouriteCitiesIds = favouriteCities
+                .filter((city: City) => city.favourite!.isFavourite)
+                .map((city: City) => city.id)
+
+            dispatch(fetchFavouriteCities(favouriteCitiesIds))
+        }, 30 * 60 * 1000) as any)
+        setRefreshAllCitiesInterval(setInterval(() => {
+            dispatch(fetchCitiesByCoord(coordinates))
+        }, 6 * 60 * 60 * 1000) as any)
+        return () => {
+            clearInterval(refreshFavouritesInterval)
+            setRefreshFavouritesInterval(undefined)
+            clearInterval(refreshAllCitiesInterval)
+            setRefreshAllCitiesInterval(undefined)
+        }
+    }, [])
+
+    return <MainPage/>
 }
-
 export default App;

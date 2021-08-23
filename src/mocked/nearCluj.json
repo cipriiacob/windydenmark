@@ -1,0 +1,1923 @@
+{
+  "message": "accurate",
+  "cod": "200",
+  "count": 50,
+  "list": [
+    {
+      "id": 681290,
+      "name": "Cluj-Napoca",
+      "coord": {
+        "lat": 46.7667,
+        "lon": 23.6
+      },
+      "main": {
+        "temp": 25.71,
+        "feels_like": 25.93,
+        "temp_min": 25.71,
+        "temp_max": 25.71,
+        "pressure": 1020,
+        "humidity": 61
+      },
+      "dt": 1629630546,
+      "wind": {
+        "speed": 2.06,
+        "deg": 0
+      },
+      "sys": {
+        "country": "RO"
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 20
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02d"
+        }
+      ]
+    },
+    {
+      "id": 678355,
+      "name": "Feleacu",
+      "coord": {
+        "lat": 46.7167,
+        "lon": 23.6167
+      },
+      "main": {
+        "temp": 23.5,
+        "feels_like": 23.5,
+        "temp_min": 23.37,
+        "temp_max": 23.5,
+        "pressure": 1020,
+        "humidity": 61
+      },
+      "dt": 1629630557,
+      "wind": {
+        "speed": 2.06,
+        "deg": 0
+      },
+      "sys": {
+        "country": "RO"
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 20
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02d"
+        }
+      ]
+    },
+    {
+      "id": 685927,
+      "name": "Baciu",
+      "coord": {
+        "lat": 46.8,
+        "lon": 23.5167
+      },
+      "main": {
+        "temp": 25.46,
+        "feels_like": 25.65,
+        "temp_min": 25.46,
+        "temp_max": 25.46,
+        "pressure": 1020,
+        "humidity": 61
+      },
+      "dt": 1629630317,
+      "wind": {
+        "speed": 2.06,
+        "deg": 0
+      },
+      "sys": {
+        "country": "RO"
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 20
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02d"
+        }
+      ]
+    },
+    {
+      "id": 678050,
+      "name": "Floreşti",
+      "coord": {
+        "lat": 46.7457,
+        "lon": 23.4938
+      },
+      "main": {
+        "temp": 25.64,
+        "feels_like": 25.85,
+        "temp_min": 25.64,
+        "temp_max": 25.64,
+        "pressure": 1020,
+        "humidity": 61
+      },
+      "dt": 1629630557,
+      "wind": {
+        "speed": 2.06,
+        "deg": 0
+      },
+      "sys": {
+        "country": "RO"
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 20
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02d"
+        }
+      ]
+    },
+    {
+      "id": 666978,
+      "name": "Sânnicoară",
+      "coord": {
+        "lat": 46.7833,
+        "lon": 23.7167
+      },
+      "main": {
+        "temp": 26.01,
+        "feels_like": 26.01,
+        "temp_min": 25.88,
+        "temp_max": 26.01,
+        "pressure": 1020,
+        "humidity": 61
+      },
+      "dt": 1629630315,
+      "wind": {
+        "speed": 2.06,
+        "deg": 0
+      },
+      "sys": {
+        "country": "RO"
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 20
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02d"
+        }
+      ]
+    },
+    {
+      "id": 681371,
+      "name": "Ciurila",
+      "coord": {
+        "lat": 46.65,
+        "lon": 23.55
+      },
+      "main": {
+        "temp": 23.84,
+        "feels_like": 23.87,
+        "temp_min": 23.7,
+        "temp_max": 23.84,
+        "pressure": 1020,
+        "humidity": 61
+      },
+      "dt": 1629630316,
+      "wind": {
+        "speed": 2.06,
+        "deg": 0
+      },
+      "sys": {
+        "country": "RO"
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 20
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02d"
+        }
+      ]
+    },
+    {
+      "id": 682093,
+      "name": "Chinteni",
+      "coord": {
+        "lat": 46.8667,
+        "lon": 23.5333
+      },
+      "main": {
+        "temp": 24.75,
+        "feels_like": 24.87,
+        "temp_min": 24.75,
+        "temp_max": 24.75,
+        "pressure": 1020,
+        "humidity": 61
+      },
+      "dt": 1629630316,
+      "wind": {
+        "speed": 2.06,
+        "deg": 0
+      },
+      "sys": {
+        "country": "RO"
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 20
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02d"
+        }
+      ]
+    },
+    {
+      "id": 667763,
+      "name": "Săvădisla",
+      "coord": {
+        "lat": 46.6833,
+        "lon": 23.45
+      },
+      "main": {
+        "temp": 24.5,
+        "feels_like": 23.95,
+        "temp_min": 24.5,
+        "temp_max": 24.5,
+        "pressure": 1018,
+        "humidity": 36,
+        "sea_level": 1018,
+        "grnd_level": 958
+      },
+      "dt": 1629630315,
+      "wind": {
+        "speed": 1.05,
+        "deg": 54
+      },
+      "sys": {
+        "country": "RO"
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 34
+      },
+      "weather": [
+        {
+          "id": 802,
+          "main": "Clouds",
+          "description": "scattered clouds",
+          "icon": "03d"
+        }
+      ]
+    },
+    {
+      "id": 686288,
+      "name": "Apahida",
+      "coord": {
+        "lat": 46.8167,
+        "lon": 23.75
+      },
+      "main": {
+        "temp": 26.08,
+        "feels_like": 26.08,
+        "temp_min": 25.94,
+        "temp_max": 26.08,
+        "pressure": 1020,
+        "humidity": 61
+      },
+      "dt": 1629630558,
+      "wind": {
+        "speed": 2.06,
+        "deg": 0
+      },
+      "sys": {
+        "country": "RO"
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 20
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02d"
+        }
+      ]
+    },
+    {
+      "id": 686592,
+      "name": "Aiton",
+      "coord": {
+        "lat": 46.6833,
+        "lon": 23.7333
+      },
+      "main": {
+        "temp": 23.93,
+        "feels_like": 23.97,
+        "temp_min": 23.79,
+        "temp_max": 23.93,
+        "pressure": 1020,
+        "humidity": 61
+      },
+      "dt": 1629630317,
+      "wind": {
+        "speed": 2.06,
+        "deg": 0
+      },
+      "sys": {
+        "country": "RO"
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 20
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02d"
+        }
+      ]
+    },
+    {
+      "id": 667006,
+      "name": "Sânmărtin",
+      "coord": {
+        "lat": 46.9,
+        "lon": 23.5667
+      },
+      "main": {
+        "temp": 25.41,
+        "feels_like": 25.6,
+        "temp_min": 25.41,
+        "temp_max": 25.41,
+        "pressure": 1020,
+        "humidity": 61
+      },
+      "dt": 1629630315,
+      "wind": {
+        "speed": 2.06,
+        "deg": 0
+      },
+      "sys": {
+        "country": "RO"
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 20
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02d"
+        }
+      ]
+    },
+    {
+      "id": 674231,
+      "name": "Măcicașu",
+      "coord": {
+        "lat": 46.9,
+        "lon": 23.5667
+      },
+      "main": {
+        "temp": 25.41,
+        "feels_like": 25.6,
+        "temp_min": 25.41,
+        "temp_max": 25.41,
+        "pressure": 1020,
+        "humidity": 61
+      },
+      "dt": 1629630315,
+      "wind": {
+        "speed": 2.06,
+        "deg": 0
+      },
+      "sys": {
+        "country": "RO"
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 20
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02d"
+        }
+      ]
+    },
+    {
+      "id": 677283,
+      "name": "Gilău",
+      "coord": {
+        "lat": 46.7324,
+        "lon": 23.3617
+      },
+      "main": {
+        "temp": 25.25,
+        "feels_like": 24.82,
+        "temp_min": 25.25,
+        "temp_max": 25.25,
+        "pressure": 1018,
+        "humidity": 38,
+        "sea_level": 1018,
+        "grnd_level": 970
+      },
+      "dt": 1629630557,
+      "wind": {
+        "speed": 1.57,
+        "deg": 48
+      },
+      "sys": {
+        "country": "RO"
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 35
+      },
+      "weather": [
+        {
+          "id": 802,
+          "main": "Clouds",
+          "description": "scattered clouds",
+          "icon": "03d"
+        }
+      ]
+    },
+    {
+      "id": 664451,
+      "name": "Tureni",
+      "coord": {
+        "lat": 46.6293,
+        "lon": 23.7024
+      },
+      "main": {
+        "temp": 24.61,
+        "feels_like": 24.72,
+        "temp_min": 24.47,
+        "temp_max": 24.61,
+        "pressure": 1020,
+        "humidity": 61
+      },
+      "dt": 1629630556,
+      "wind": {
+        "speed": 2.06,
+        "deg": 0
+      },
+      "sys": {
+        "country": "RO"
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 20
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02d"
+        }
+      ]
+    },
+    {
+      "id": 666963,
+      "name": "Sânpaul",
+      "coord": {
+        "lat": 46.8833,
+        "lon": 23.4167
+      },
+      "main": {
+        "temp": 25.34,
+        "feels_like": 24.79,
+        "temp_min": 25.34,
+        "temp_max": 25.34,
+        "pressure": 1018,
+        "humidity": 33,
+        "sea_level": 1018,
+        "grnd_level": 972
+      },
+      "dt": 1629630315,
+      "wind": {
+        "speed": 0.57,
+        "deg": 332
+      },
+      "sys": {
+        "country": "RO"
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 18
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02d"
+        }
+      ]
+    },
+    {
+      "id": 681140,
+      "name": "Cojocna",
+      "coord": {
+        "lat": 46.75,
+        "lon": 23.8333
+      },
+      "main": {
+        "temp": 25.84,
+        "feels_like": 26.07,
+        "temp_min": 25.7,
+        "temp_max": 25.84,
+        "pressure": 1020,
+        "humidity": 61
+      },
+      "dt": 1629630316,
+      "wind": {
+        "speed": 2.06,
+        "deg": 0
+      },
+      "sys": {
+        "country": "RO"
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 20
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02d"
+        }
+      ]
+    },
+    {
+      "id": 675162,
+      "name": "Juc-Herghelie",
+      "coord": {
+        "lat": 46.85,
+        "lon": 23.8
+      },
+      "main": {
+        "temp": 25.81,
+        "feels_like": 26.04,
+        "temp_min": 25.67,
+        "temp_max": 25.81,
+        "pressure": 1020,
+        "humidity": 61
+      },
+      "dt": 1629630316,
+      "wind": {
+        "speed": 2.06,
+        "deg": 0
+      },
+      "sys": {
+        "country": "RO"
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 20
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02d"
+        }
+      ]
+    },
+    {
+      "id": 670985,
+      "name": "Petreştii de Jos",
+      "coord": {
+        "lat": 46.5833,
+        "lon": 23.65
+      },
+      "main": {
+        "temp": 24.9,
+        "feels_like": 24.28,
+        "temp_min": 24.76,
+        "temp_max": 24.9,
+        "pressure": 1018,
+        "humidity": 32,
+        "sea_level": 1018,
+        "grnd_level": 964
+      },
+      "dt": 1629630315,
+      "wind": {
+        "speed": 1.55,
+        "deg": 142
+      },
+      "sys": {
+        "country": "RO"
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 21
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02d"
+        }
+      ]
+    },
+    {
+      "id": 684159,
+      "name": "Borşa",
+      "coord": {
+        "lat": 46.9333,
+        "lon": 23.6667
+      },
+      "main": {
+        "temp": 25.83,
+        "feels_like": 26.06,
+        "temp_min": 25.83,
+        "temp_max": 25.83,
+        "pressure": 1020,
+        "humidity": 61
+      },
+      "dt": 1629630317,
+      "wind": {
+        "speed": 2.06,
+        "deg": 0
+      },
+      "sys": {
+        "country": "RO"
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 20
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02d"
+        }
+      ]
+    },
+    {
+      "id": 685773,
+      "name": "Băişoara",
+      "coord": {
+        "lat": 46.5833,
+        "lon": 23.4667
+      },
+      "main": {
+        "temp": 24.4,
+        "feels_like": 23.84,
+        "temp_min": 24.4,
+        "temp_max": 24.4,
+        "pressure": 1018,
+        "humidity": 36,
+        "sea_level": 1018,
+        "grnd_level": 956
+      },
+      "dt": 1629630317,
+      "wind": {
+        "speed": 0.91,
+        "deg": 88
+      },
+      "sys": {
+        "country": "RO"
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 37
+      },
+      "weather": [
+        {
+          "id": 802,
+          "main": "Clouds",
+          "description": "scattered clouds",
+          "icon": "03d"
+        }
+      ]
+    },
+    {
+      "id": 663730,
+      "name": "Valea Ierii",
+      "coord": {
+        "lat": 46.65,
+        "lon": 23.35
+      },
+      "main": {
+        "temp": 22.37,
+        "feels_like": 21.65,
+        "temp_min": 22.37,
+        "temp_max": 22.37,
+        "pressure": 1018,
+        "humidity": 38,
+        "sea_level": 1018,
+        "grnd_level": 922
+      },
+      "dt": 1629630314,
+      "wind": {
+        "speed": 1.09,
+        "deg": 54
+      },
+      "sys": {
+        "country": "RO"
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 42
+      },
+      "weather": [
+        {
+          "id": 802,
+          "main": "Clouds",
+          "description": "scattered clouds",
+          "icon": "03d"
+        }
+      ]
+    },
+    {
+      "id": 682750,
+      "name": "Căpuşu Mare",
+      "coord": {
+        "lat": 46.7833,
+        "lon": 23.3
+      },
+      "main": {
+        "temp": 25.07,
+        "feels_like": 24.62,
+        "temp_min": 25.07,
+        "temp_max": 25.07,
+        "pressure": 1018,
+        "humidity": 38,
+        "sea_level": 1018,
+        "grnd_level": 967
+      },
+      "dt": 1629630317,
+      "wind": {
+        "speed": 1.72,
+        "deg": 44
+      },
+      "sys": {
+        "country": "RO"
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 32
+      },
+      "weather": [
+        {
+          "id": 802,
+          "main": "Clouds",
+          "description": "scattered clouds",
+          "icon": "03d"
+        }
+      ]
+    },
+    {
+      "id": 681291,
+      "name": "Cluj",
+      "coord": {
+        "lat": 46.6494,
+        "lon": 23.8184
+      },
+      "main": {
+        "temp": 25.18,
+        "feels_like": 25.35,
+        "temp_min": 25.04,
+        "temp_max": 25.18,
+        "pressure": 1020,
+        "humidity": 61
+      },
+      "dt": 1629630316,
+      "wind": {
+        "speed": 2.06,
+        "deg": 0
+      },
+      "sys": {
+        "country": "RO"
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 20
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02d"
+        }
+      ]
+    },
+    {
+      "id": 668101,
+      "name": "Sănduleşti",
+      "coord": {
+        "lat": 46.5833,
+        "lon": 23.7167
+      },
+      "main": {
+        "temp": 25.02,
+        "feels_like": 24.36,
+        "temp_min": 24.88,
+        "temp_max": 25.02,
+        "pressure": 1018,
+        "humidity": 30,
+        "sea_level": 1018,
+        "grnd_level": 966
+      },
+      "dt": 1629630315,
+      "wind": {
+        "speed": 1.99,
+        "deg": 151
+      },
+      "sys": {
+        "country": "RO"
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 16
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02d"
+        }
+      ]
+    },
+    {
+      "id": 662400,
+      "name": "Vultureni",
+      "coord": {
+        "lat": 46.9667,
+        "lon": 23.5667
+      },
+      "main": {
+        "temp": 25.25,
+        "feels_like": 24.59,
+        "temp_min": 25.25,
+        "temp_max": 25.25,
+        "pressure": 1018,
+        "humidity": 29,
+        "sea_level": 1018,
+        "grnd_level": 970
+      },
+      "dt": 1629630314,
+      "wind": {
+        "speed": 1.51,
+        "deg": 244
+      },
+      "sys": {
+        "country": "RO"
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 10
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "clear sky",
+          "icon": "01d"
+        }
+      ]
+    },
+    {
+      "id": 675817,
+      "name": "Iara",
+      "coord": {
+        "lat": 46.55,
+        "lon": 23.5167
+      },
+      "main": {
+        "temp": 25.06,
+        "feels_like": 24.54,
+        "temp_min": 24.92,
+        "temp_max": 25.06,
+        "pressure": 1018,
+        "humidity": 35,
+        "sea_level": 1018,
+        "grnd_level": 967
+      },
+      "dt": 1629630557,
+      "wind": {
+        "speed": 1.13,
+        "deg": 108
+      },
+      "sys": {
+        "country": "RO"
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 35
+      },
+      "weather": [
+        {
+          "id": 802,
+          "main": "Clouds",
+          "description": "scattered clouds",
+          "icon": "03d"
+        }
+      ]
+    },
+    {
+      "id": 683051,
+      "name": "Căianu Mic",
+      "coord": {
+        "lat": 46.7833,
+        "lon": 23.9167
+      },
+      "main": {
+        "temp": 25.68,
+        "feels_like": 25.9,
+        "temp_min": 25.55,
+        "temp_max": 25.68,
+        "pressure": 1020,
+        "humidity": 61
+      },
+      "dt": 1629630317,
+      "wind": {
+        "speed": 2.06,
+        "deg": 0
+      },
+      "sys": {
+        "country": "RO"
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 20
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02d"
+        }
+      ]
+    },
+    {
+      "id": 679844,
+      "name": "Dăbâca",
+      "coord": {
+        "lat": 46.9833,
+        "lon": 23.6667
+      },
+      "main": {
+        "temp": 25.64,
+        "feels_like": 24.99,
+        "temp_min": 25.64,
+        "temp_max": 25.64,
+        "pressure": 1018,
+        "humidity": 28,
+        "sea_level": 1018,
+        "grnd_level": 977
+      },
+      "dt": 1629630316,
+      "wind": {
+        "speed": 1.66,
+        "deg": 227
+      },
+      "sys": {
+        "country": "RO"
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 12
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02d"
+        }
+      ]
+    },
+    {
+      "id": 686084,
+      "name": "Aşchileu Dorna",
+      "coord": {
+        "lat": 46.9833,
+        "lon": 23.4833
+      },
+      "main": {
+        "temp": 25.3,
+        "feels_like": 24.64,
+        "temp_min": 25.3,
+        "temp_max": 25.3,
+        "pressure": 1018,
+        "humidity": 29,
+        "sea_level": 1018,
+        "grnd_level": 971
+      },
+      "dt": 1629630317,
+      "wind": {
+        "speed": 1.65,
+        "deg": 257
+      },
+      "sys": {
+        "country": "RO"
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 7
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "clear sky",
+          "icon": "01d"
+        }
+      ]
+    },
+    {
+      "id": 664460,
+      "name": "Turda",
+      "coord": {
+        "lat": 46.5667,
+        "lon": 23.7833
+      },
+      "main": {
+        "temp": 25.91,
+        "feels_like": 25.31,
+        "temp_min": 25.77,
+        "temp_max": 25.91,
+        "pressure": 1018,
+        "humidity": 29,
+        "sea_level": 1018,
+        "grnd_level": 981
+      },
+      "dt": 1629630546,
+      "wind": {
+        "speed": 2.28,
+        "deg": 159
+      },
+      "sys": {
+        "country": "RO"
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 13
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02d"
+        }
+      ]
+    },
+    {
+      "id": 680364,
+      "name": "Crăciuneşti",
+      "coord": {
+        "lat": 46.5667,
+        "lon": 23.7833
+      },
+      "main": {
+        "temp": 25.91,
+        "feels_like": 25.31,
+        "temp_min": 25.77,
+        "temp_max": 25.91,
+        "pressure": 1018,
+        "humidity": 29,
+        "sea_level": 1018,
+        "grnd_level": 981
+      },
+      "dt": 1629630546,
+      "wind": {
+        "speed": 2.28,
+        "deg": 159
+      },
+      "sys": {
+        "country": "RO"
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 13
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02d"
+        }
+      ]
+    },
+    {
+      "id": 673365,
+      "name": "Mihai Viteazu",
+      "coord": {
+        "lat": 46.5333,
+        "lon": 23.75
+      },
+      "main": {
+        "temp": 25.87,
+        "feels_like": 25.27,
+        "temp_min": 25.73,
+        "temp_max": 25.87,
+        "pressure": 1017,
+        "humidity": 29,
+        "sea_level": 1017,
+        "grnd_level": 980
+      },
+      "dt": 1629630316,
+      "wind": {
+        "speed": 2.61,
+        "deg": 156
+      },
+      "sys": {
+        "country": "RO"
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 12
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02d"
+        }
+      ]
+    },
+    {
+      "id": 686627,
+      "name": "Aghireșu-Fabrici",
+      "coord": {
+        "lat": 46.8833,
+        "lon": 23.25
+      },
+      "main": {
+        "temp": 24.82,
+        "feels_like": 24.22,
+        "temp_min": 24.82,
+        "temp_max": 24.82,
+        "pressure": 1018,
+        "humidity": 33,
+        "sea_level": 1018,
+        "grnd_level": 963
+      },
+      "dt": 1629630558,
+      "wind": {
+        "speed": 1.47,
+        "deg": 25
+      },
+      "sys": {
+        "country": "RO"
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 21
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02d"
+        }
+      ]
+    },
+    {
+      "id": 665879,
+      "name": "Suatu",
+      "coord": {
+        "lat": 46.7667,
+        "lon": 23.9667
+      },
+      "main": {
+        "temp": 25.55,
+        "feels_like": 24.87,
+        "temp_min": 25.41,
+        "temp_max": 25.55,
+        "pressure": 1018,
+        "humidity": 27,
+        "sea_level": 1018,
+        "grnd_level": 975
+      },
+      "dt": 1629630315,
+      "wind": {
+        "speed": 1.28,
+        "deg": 148
+      },
+      "sys": {
+        "country": "RO"
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 33
+      },
+      "weather": [
+        {
+          "id": 802,
+          "main": "Clouds",
+          "description": "scattered clouds",
+          "icon": "03d"
+        }
+      ]
+    },
+    {
+      "id": 672905,
+      "name": "Moldoveneşti",
+      "coord": {
+        "lat": 46.5,
+        "lon": 23.65
+      },
+      "main": {
+        "temp": 24.77,
+        "feels_like": 24.11,
+        "temp_min": 24.63,
+        "temp_max": 24.77,
+        "pressure": 1018,
+        "humidity": 31,
+        "sea_level": 1018,
+        "grnd_level": 962
+      },
+      "dt": 1629630557,
+      "wind": {
+        "speed": 2.12,
+        "deg": 147
+      },
+      "sys": {
+        "country": "RO"
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 22
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02d"
+        }
+      ]
+    },
+    {
+      "id": 682473,
+      "name": "Ceanu Mare",
+      "coord": {
+        "lat": 46.6667,
+        "lon": 23.95
+      },
+      "main": {
+        "temp": 25.27,
+        "feels_like": 24.56,
+        "temp_min": 25.14,
+        "temp_max": 25.27,
+        "pressure": 1018,
+        "humidity": 27,
+        "sea_level": 1018,
+        "grnd_level": 970
+      },
+      "dt": 1629630317,
+      "wind": {
+        "speed": 1.55,
+        "deg": 166
+      },
+      "sys": {
+        "country": "RO"
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 23
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02d"
+        }
+      ]
+    },
+    {
+      "id": 675763,
+      "name": "Iclod",
+      "coord": {
+        "lat": 46.9833,
+        "lon": 23.8
+      },
+      "main": {
+        "temp": 26.06,
+        "feels_like": 26.06,
+        "temp_min": 26.06,
+        "temp_max": 26.06,
+        "pressure": 1018,
+        "humidity": 27,
+        "sea_level": 1018,
+        "grnd_level": 984
+      },
+      "dt": 1629630557,
+      "wind": {
+        "speed": 1.67,
+        "deg": 200
+      },
+      "sys": {
+        "country": "RO"
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 22
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02d"
+        }
+      ]
+    },
+    {
+      "id": 667262,
+      "name": "Sic",
+      "coord": {
+        "lat": 46.9333,
+        "lon": 23.8833
+      },
+      "main": {
+        "temp": 25.9,
+        "feels_like": 25.25,
+        "temp_min": 25.76,
+        "temp_max": 25.9,
+        "pressure": 1018,
+        "humidity": 27,
+        "sea_level": 1018,
+        "grnd_level": 981
+      },
+      "dt": 1629630315,
+      "wind": {
+        "speed": 1.59,
+        "deg": 173
+      },
+      "sys": {
+        "country": "RO"
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 32
+      },
+      "weather": [
+        {
+          "id": 802,
+          "main": "Clouds",
+          "description": "scattered clouds",
+          "icon": "03d"
+        }
+      ]
+    },
+    {
+      "id": 671374,
+      "name": "Panticeu",
+      "coord": {
+        "lat": 47.0333,
+        "lon": 23.5667
+      },
+      "main": {
+        "temp": 25.74,
+        "feels_like": 25.1,
+        "temp_min": 25.74,
+        "temp_max": 25.91,
+        "pressure": 1018,
+        "humidity": 28,
+        "sea_level": 1018,
+        "grnd_level": 978
+      },
+      "dt": 1629630315,
+      "wind": {
+        "speed": 1.85,
+        "deg": 247
+      },
+      "sys": {
+        "country": "RO"
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 8
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "clear sky",
+          "icon": "01d"
+        }
+      ]
+    },
+    {
+      "id": 680774,
+      "name": "Corneşti",
+      "coord": {
+        "lat": 47.0333,
+        "lon": 23.6833
+      },
+      "main": {
+        "temp": 25.62,
+        "feels_like": 24.97,
+        "temp_min": 25.62,
+        "temp_max": 25.62,
+        "pressure": 1018,
+        "humidity": 28,
+        "sea_level": 1018,
+        "grnd_level": 976
+      },
+      "dt": 1629630316,
+      "wind": {
+        "speed": 1.79,
+        "deg": 230
+      },
+      "sys": {
+        "country": "RO"
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 13
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02d"
+        }
+      ]
+    },
+    {
+      "id": 678894,
+      "name": "Dragu",
+      "coord": {
+        "lat": 47.0167,
+        "lon": 23.4
+      },
+      "main": {
+        "temp": 25.82,
+        "feels_like": 25.19,
+        "temp_min": 25.82,
+        "temp_max": 25.82,
+        "pressure": 1018,
+        "humidity": 28,
+        "sea_level": 1018,
+        "grnd_level": 980
+      },
+      "dt": 1629630316,
+      "wind": {
+        "speed": 1.28,
+        "deg": 277
+      },
+      "sys": {
+        "country": "RO"
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 6
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "clear sky",
+          "icon": "01d"
+        }
+      ]
+    },
+    {
+      "id": 671460,
+      "name": "Pălatca",
+      "coord": {
+        "lat": 46.85,
+        "lon": 23.9833
+      },
+      "main": {
+        "temp": 25.44,
+        "feels_like": 24.74,
+        "temp_min": 25.3,
+        "temp_max": 25.44,
+        "pressure": 1018,
+        "humidity": 27,
+        "sea_level": 1018,
+        "grnd_level": 973
+      },
+      "dt": 1629630315,
+      "wind": {
+        "speed": 1.63,
+        "deg": 152
+      },
+      "sys": {
+        "country": "RO"
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 40
+      },
+      "weather": [
+        {
+          "id": 802,
+          "main": "Clouds",
+          "description": "scattered clouds",
+          "icon": "03d"
+        }
+      ]
+    },
+    {
+      "id": 681865,
+      "name": "Câmpia Turzii",
+      "coord": {
+        "lat": 46.55,
+        "lon": 23.8833
+      },
+      "main": {
+        "temp": 26.07,
+        "feels_like": 26.07,
+        "temp_min": 25.94,
+        "temp_max": 26.07,
+        "pressure": 1017,
+        "humidity": 27,
+        "sea_level": 1017,
+        "grnd_level": 984
+      },
+      "dt": 1629630546,
+      "wind": {
+        "speed": 2.26,
+        "deg": 172
+      },
+      "sys": {
+        "country": "RO"
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 13
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02d"
+        }
+      ]
+    },
+    {
+      "id": 686419,
+      "name": "Aluniş",
+      "coord": {
+        "lat": 47.0333,
+        "lon": 23.75
+      },
+      "main": {
+        "temp": 25.94,
+        "feels_like": 25.29,
+        "temp_min": 25.94,
+        "temp_max": 25.94,
+        "pressure": 1018,
+        "humidity": 27,
+        "sea_level": 1018,
+        "grnd_level": 982
+      },
+      "dt": 1629630317,
+      "wind": {
+        "speed": 1.83,
+        "deg": 221
+      },
+      "sys": {
+        "country": "RO"
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 15
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02d"
+        }
+      ]
+    },
+    {
+      "id": 669037,
+      "name": "Recea Cristur",
+      "coord": {
+        "lat": 47.0667,
+        "lon": 23.5333
+      },
+      "main": {
+        "temp": 25.42,
+        "feels_like": 24.75,
+        "temp_min": 25.42,
+        "temp_max": 25.59,
+        "pressure": 1018,
+        "humidity": 28,
+        "sea_level": 1018,
+        "grnd_level": 973
+      },
+      "dt": 1629630315,
+      "wind": {
+        "speed": 1.89,
+        "deg": 255
+      },
+      "sys": {
+        "country": "RO"
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 7
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "clear sky",
+          "icon": "01d"
+        }
+      ]
+    },
+    {
+      "id": 668900,
+      "name": "Rimetea",
+      "coord": {
+        "lat": 46.45,
+        "lon": 23.5667
+      },
+      "main": {
+        "temp": 24.51,
+        "feels_like": 23.85,
+        "temp_min": 24.38,
+        "temp_max": 24.51,
+        "pressure": 1018,
+        "humidity": 32,
+        "sea_level": 1018,
+        "grnd_level": 958
+      },
+      "dt": 1629630315,
+      "wind": {
+        "speed": 1.62,
+        "deg": 146
+      },
+      "sys": {
+        "country": "RO"
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 32
+      },
+      "weather": [
+        {
+          "id": 802,
+          "main": "Clouds",
+          "description": "scattered clouds",
+          "icon": "03d"
+        }
+      ]
+    },
+    {
+      "id": 662920,
+      "name": "Viişoara",
+      "coord": {
+        "lat": 46.55,
+        "lon": 23.9167
+      },
+      "main": {
+        "temp": 25.78,
+        "feels_like": 25.12,
+        "temp_min": 25.64,
+        "temp_max": 25.78,
+        "pressure": 1017,
+        "humidity": 27,
+        "sea_level": 1017,
+        "grnd_level": 979
+      },
+      "dt": 1629630556,
+      "wind": {
+        "speed": 2.24,
+        "deg": 177
+      },
+      "sys": {
+        "country": "RO"
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 13
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02d"
+        }
+      ]
+    },
+    {
+      "id": 672983,
+      "name": "Mociu",
+      "coord": {
+        "lat": 46.8,
+        "lon": 24.0333
+      },
+      "main": {
+        "temp": 25.78,
+        "feels_like": 25.09,
+        "temp_min": 25.64,
+        "temp_max": 25.78,
+        "pressure": 1018,
+        "humidity": 26,
+        "sea_level": 1018,
+        "grnd_level": 979
+      },
+      "dt": 1629630316,
+      "wind": {
+        "speed": 1.33,
+        "deg": 152
+      },
+      "sys": {
+        "country": "RO"
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 38
+      },
+      "weather": [
+        {
+          "id": 802,
+          "main": "Clouds",
+          "description": "scattered clouds",
+          "icon": "03d"
+        }
+      ]
+    },
+    {
+      "id": 666989,
+      "name": "Sânmihaiu Almaşului",
+      "coord": {
+        "lat": 47.0167,
+        "lon": 23.3
+      },
+      "main": {
+        "temp": 25.95,
+        "feels_like": 25.95,
+        "temp_min": 25.95,
+        "temp_max": 25.95,
+        "pressure": 1018,
+        "humidity": 28,
+        "sea_level": 1018,
+        "grnd_level": 982
+      },
+      "dt": 1629630315,
+      "wind": {
+        "speed": 1.09,
+        "deg": 322
+      },
+      "sys": {
+        "country": "RO"
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 6
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "clear sky",
+          "icon": "01d"
+        }
+      ]
+    },
+    {
+      "id": 669803,
+      "name": "Poşaga de Sus",
+      "coord": {
+        "lat": 46.4667,
+        "lon": 23.3833
+      },
+      "main": {
+        "temp": 23.13,
+        "feels_like": 22.46,
+        "temp_min": 23.13,
+        "temp_max": 23.13,
+        "pressure": 1018,
+        "humidity": 37,
+        "sea_level": 1018,
+        "grnd_level": 935
+      },
+      "dt": 1629630315,
+      "wind": {
+        "speed": 0.56,
+        "deg": 149
+      },
+      "sys": {
+        "country": "RO"
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 48
+      },
+      "weather": [
+        {
+          "id": 802,
+          "main": "Clouds",
+          "description": "scattered clouds",
+          "icon": "03d"
+        }
+      ]
+    }
+  ]
+}

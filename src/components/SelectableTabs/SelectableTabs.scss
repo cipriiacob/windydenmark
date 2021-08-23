@@ -1,0 +1,22 @@
+@import "./src/mixins";
+
+.selectable-tabs {
+  display: flex;
+  height: 30px;
+  width: 98%;
+  margin: auto;
+  line-height: 30px;
+  .tab-description {
+    padding: 0 20px 0 0;
+  }
+  .tab-option {
+    cursor: pointer;
+    padding: 0 20px;
+    text-transform: capitalize;
+    font-weight: bold;
+
+    &.selected {
+      border-bottom: 3px solid white;
+    }
+  }
+}

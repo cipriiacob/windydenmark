@@ -1,0 +1,29 @@
+$main-color-1: #2C365E;
+$main-color-2: #347FC4;
+$main-color-3: #AEF6C7;
+
+$text-color: white;
+
+$application-header-height: 50px;
+$bars-height: 30px;
+
+$radius-size: 10px;
+
+@mixin horizontally-centered {
+  display: flex;
+  justify-content: center;
+}
+
+@mixin absolute-horizontally-centered {
+
+}
+
+@mixin icon-button {
+  right: 10px;
+  top: 10px;
+  height: 20px;
+  width: 20px;
+  fill: $text-color;
+  cursor: pointer;
+  position: absolute;
+}

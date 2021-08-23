@@ -1,0 +1,51 @@
+@import "./src/mixins";
+
+$modal-height: 160px;
+$modal-width: 400px;
+
+.confirmation-modal {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 10;
+
+  backdrop-filter: blur(3px);
+
+  .modal-content {
+    width: $modal-width;
+    height: $modal-height;
+    position: absolute;
+    left: calc(50% - #{$modal-width / 2});
+    top: calc(35% - #{$modal-height / 2});
+    background-color: $main-color-1;
+    border-radius: $radius-size;
+    box-shadow: rgba(0, 0 ,0, .2) 0px 0px 47px 12px;
+
+
+    display: block;
+    .top-bar {
+      .close-button {
+        @include icon-button;
+      }
+    }
+
+    .message {
+      width: 100%;
+      height: 45%;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+
+      text-align: center;
+      font-size: 25px;
+    }
+
+    .action-buttons {
+      @include horizontally-centered;
+      grid-gap: 10px;
+    }
+  }
+}

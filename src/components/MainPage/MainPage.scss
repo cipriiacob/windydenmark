@@ -1,0 +1,14 @@
+@import "./src/mixins";
+
+.main-page {
+  .content {
+    position: fixed;
+    width: 100%;
+    height: calc(100% - #{$application-header-height});
+    top: 50px;
+
+    color: $text-color;
+    background-image: linear-gradient(to right, #2ebf91, #8360c3 );
+    overflow-y: auto;
+  }
+}
